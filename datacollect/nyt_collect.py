@@ -6,7 +6,7 @@ import time
 import pprint
 
 # input your own NYTimes API keys
-api = articleAPI("l9ATwcqrGVSFbJ1LrfcFmWPxfDWXAAx5")
+api = articleAPI("api_key")
 
 # article count
 counter = 0
